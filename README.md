@@ -41,7 +41,7 @@ The summary statistics are in [June_Summary_Statistics.PNG](June_Summary_Statist
 
 ## Temperature Analysis Summary
 
-- Summary of the temperature analysis for June and December.
+- Summary of the temperature analysis for June and December
 
 In December it can be significantly colder than in June.
 The minimum temperature in June is 64.00 degrees and in December it is 56.00 degrees which is 8 degrees colder.
