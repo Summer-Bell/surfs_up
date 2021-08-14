@@ -12,7 +12,7 @@ The SQLite file [hawaii.sqlite](hawaii.sqlite) is the database that contains the
 The file [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb) will contain the code to generate the summary statistics.
 First a query was written to retrieve the applicable month of temperatures from the date column of the Measurement table.
 Next those temperatures were added to a list.
-Then the list of temperatures were converted to a Pandas DataFrame.
+Then the list of temperatures was converted to a Pandas DataFrame.
 Finally the summary statistics were generated for the DataFrame.
 
 ## Temperature Results
@@ -41,7 +41,8 @@ The summary statistics are in [June_Summary_Statistics.PNG](June_Summary_Statist
 
 ## Temperature Analysis Summary
 
-- Summary of the temperature analysis for June and December?
+- Summary of the temperature analysis for June and December.
+
 In December it can be significantly colder than in June.
 The minimum temperature in June is 64.00 degrees and in December it is 56.00 degrees which is 8 degrees colder.
 Customers will be less likely to go surfing or eat ice cream on cold days.
@@ -49,9 +50,10 @@ In December 25% of the recorded temperatures are below 69.00 degrees.
 Half the days in December are still above 71.00 which is a reasonable temperature for surfing and eating ice cream.
 
 - Two additional queries that could be performed to gather more weather data for June and December?
+
 Precipitation and humidity are also important factors that impact whether people would be out surfing and eating ice cream.
-Performing queries on precipitation and humidity would also be beneficial when evaluating the sustainability of the Surf n' Shake shop.
+Performing queries on precipitation and humidity would be beneficial when evaluating the sustainability of the Surf n' Shake shop.
 Weather patterns can vary by location on the island. 
-Performing the same temperature analysis on the closest weather station to the purposed location would also provide valuable information.
+Performing the same temperature analysis on the closest weather station to the purposed store location would also provide valuable information.
 
 
